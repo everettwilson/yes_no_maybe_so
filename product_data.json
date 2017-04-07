@@ -1,0 +1,26 @@
+{
+  "coke": {
+    "price": "1.25",
+    "rating": "4.5"
+  },
+  "Fitbit Blaze": {
+    "price": "198.95",
+    "rating": "4.1"
+  },
+  "The Book Google For Seniors": {
+    "price": "252.00",
+    "rating": "5"
+  },
+  "Kaleidoscope": {
+    "price": "8.05",
+    "rating": "4.6"
+  },
+  "Sound of Music soundtrack": {
+    "price": "8.65",
+    "rating": "3"
+  },
+  "Antivirus software": {
+    "price": "19.99",
+    "rating": "4.1"
+  }
+}
